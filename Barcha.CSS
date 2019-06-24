@@ -1,0 +1,30 @@
+button {
+    background-color: red;
+    font-style: Roboto;
+    color: rgb(250, 250, 250);
+    border-style: red;
+    border-radius: 8px;
+    margin-bottom: 50px;
+    
+
+    
+}
+h1 {
+    color: black;
+    font-size: 24px;
+
+} 
+.box {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    margin-bottom: 50px;
+}
+
+input {
+    border-radius: 8px;
+    border-color: blueviolet;
+
+}
+
+
